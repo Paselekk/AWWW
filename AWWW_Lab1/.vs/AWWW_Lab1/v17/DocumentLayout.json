@@ -1,12 +1,275 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab1\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{651A8CAE-58C4-49E4-9389-6EDD955A0CAB}|AWWW_Lab1.csproj|d:\\sezon 6\\github\\awww\\awww_lab1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{651A8CAE-58C4-49E4-9389-6EDD955A0CAB}|AWWW_Lab1.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{651A8CAE-58C4-49E4-9389-6EDD955A0CAB}|AWWW_Lab1.csproj|d:\\sezon 6\\github\\awww\\awww_lab1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{651A8CAE-58C4-49E4-9389-6EDD955A0CAB}|AWWW_Lab1.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{651A8CAE-58C4-49E4-9389-6EDD955A0CAB}|AWWW_Lab1.csproj|d:\\sezon 6\\github\\awww\\awww_lab1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{651A8CAE-58C4-49E4-9389-6EDD955A0CAB}|AWWW_Lab1.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{651A8CAE-58C4-49E4-9389-6EDD955A0CAB}|AWWW_Lab1.csproj|d:\\sezon 6\\github\\awww\\awww_lab1\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{651A8CAE-58C4-49E4-9389-6EDD955A0CAB}|AWWW_Lab1.csproj|solutionrelative:views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{651A8CAE-58C4-49E4-9389-6EDD955A0CAB}|AWWW_Lab1.csproj|d:\\sezon 6\\github\\awww\\awww_lab1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{651A8CAE-58C4-49E4-9389-6EDD955A0CAB}|AWWW_Lab1.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{651A8CAE-58C4-49E4-9389-6EDD955A0CAB}|AWWW_Lab1.csproj|d:\\sezon 6\\github\\awww\\awww_lab1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{651A8CAE-58C4-49E4-9389-6EDD955A0CAB}|AWWW_Lab1.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{651A8CAE-58C4-49E4-9389-6EDD955A0CAB}|AWWW_Lab1.csproj|d:\\sezon 6\\github\\awww\\awww_lab1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{651A8CAE-58C4-49E4-9389-6EDD955A0CAB}|AWWW_Lab1.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{651A8CAE-58C4-49E4-9389-6EDD955A0CAB}|AWWW_Lab1.csproj|d:\\sezon 6\\github\\awww\\awww_lab1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{651A8CAE-58C4-49E4-9389-6EDD955A0CAB}|AWWW_Lab1.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{651A8CAE-58C4-49E4-9389-6EDD955A0CAB}|AWWW_Lab1.csproj|d:\\sezon 6\\github\\awww\\awww_lab1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{651A8CAE-58C4-49E4-9389-6EDD955A0CAB}|AWWW_Lab1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{651A8CAE-58C4-49E4-9389-6EDD955A0CAB}|AWWW_Lab1.csproj|d:\\sezon 6\\github\\awww\\awww_lab1\\controllers\\articlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{651A8CAE-58C4-49E4-9389-6EDD955A0CAB}|AWWW_Lab1.csproj|solutionrelative:controllers\\articlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{651A8CAE-58C4-49E4-9389-6EDD955A0CAB}|AWWW_Lab1.csproj|d:\\sezon 6\\github\\awww\\awww_lab1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{651A8CAE-58C4-49E4-9389-6EDD955A0CAB}|AWWW_Lab1.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{651A8CAE-58C4-49E4-9389-6EDD955A0CAB}|AWWW_Lab1.csproj|d:\\sezon 6\\github\\awww\\awww_lab1\\views\\article\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{651A8CAE-58C4-49E4-9389-6EDD955A0CAB}|AWWW_Lab1.csproj|solutionrelative:views\\article\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{651A8CAE-58C4-49E4-9389-6EDD955A0CAB}|AWWW_Lab1.csproj|d:\\sezon 6\\github\\awww\\awww_lab1\\models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{651A8CAE-58C4-49E4-9389-6EDD955A0CAB}|AWWW_Lab1.csproj|solutionrelative:models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{651A8CAE-58C4-49E4-9389-6EDD955A0CAB}|AWWW_Lab1.csproj|d:\\sezon 6\\github\\awww\\awww_lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{651A8CAE-58C4-49E4-9389-6EDD955A0CAB}|AWWW_Lab1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{651A8CAE-58C4-49E4-9389-6EDD955A0CAB}|AWWW_Lab1.csproj|d:\\sezon 6\\github\\awww\\awww_lab1\\awww_lab1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{651A8CAE-58C4-49E4-9389-6EDD955A0CAB}|AWWW_Lab1.csproj|solutionrelative:awww_lab1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedHeight": 384,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab1\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\Index.cshtml",
+              "ToolTip": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab1\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "Views\\Student\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-31T20:40:24.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab1\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab1\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T20:30:55.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-31T20:24:30.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-31T20:18:44.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab1\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab1\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-31T20:18:12.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab1\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab1\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-31T20:08:03.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab1\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab1\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwCcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T20:33:15.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-31T20:02:38.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ArticleController.cs",
+              "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab1\\Controllers\\ArticleController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ArticleController.cs",
+              "ToolTip": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab1\\Controllers\\ArticleController.cs",
+              "RelativeToolTip": "Controllers\\ArticleController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T20:06:50.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab1\\Views\\Article\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Article\\Index.cshtml",
+              "ToolTip": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab1\\Views\\Article\\Index.cshtml",
+              "RelativeToolTip": "Views\\Article\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-31T20:07:23.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T20:01:55.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab1\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab1\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-31T19:57:24.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Article.cs",
+              "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab1\\Models\\Article.cs",
+              "RelativeDocumentMoniker": "Models\\Article.cs",
+              "ToolTip": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab1\\Models\\Article.cs",
+              "RelativeToolTip": "Models\\Article.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T20:09:34.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AWWW_Lab1",
+              "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab1\\AWWW_Lab1.csproj",
+              "RelativeDocumentMoniker": "AWWW_Lab1.csproj",
+              "ToolTip": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab1\\AWWW_Lab1.csproj",
+              "RelativeToolTip": "AWWW_Lab1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-31T19:55:30.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T19:54:08.896Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
