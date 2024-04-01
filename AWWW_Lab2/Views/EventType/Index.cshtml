@@ -1,0 +1,14 @@
+﻿@model List<AWWW_Lab2.Models.EventType>
+
+<h1>Lista rodzajów eventów</h1>
+<p>
+	<a class="btn btn-outline-info" asp-controller="EventType" asp-action="Add">Dodaj rodzaj eventu</a>
+	<ul class="list-group">
+		@foreach (var type in Model)
+		{
+			<li class="list-group-item">
+				<p>Nazwa eventu: @type.Name</p>
+			</li>
+		}
+	</ul>
+</p>

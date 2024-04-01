@@ -3,8 +3,44 @@
   "WorkspaceRootPath": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Migrations\\20240331215101_Pierwsza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240331215101_Pierwsza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7F0DA953-3AA6-4126-ACF8-BD8D00E05648}|AWWW_Lab2.csproj|d:\\sezon 6\\github\\awww\\awww_lab2\\controllers\\eventtypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F0DA953-3AA6-4126-ACF8-BD8D00E05648}|AWWW_Lab2.csproj|solutionrelative:controllers\\eventtypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0DA953-3AA6-4126-ACF8-BD8D00E05648}|AWWW_Lab2.csproj|d:\\sezon 6\\github\\awww\\awww_lab2\\views\\eventtype\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F0DA953-3AA6-4126-ACF8-BD8D00E05648}|AWWW_Lab2.csproj|solutionrelative:views\\eventtype\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0DA953-3AA6-4126-ACF8-BD8D00E05648}|AWWW_Lab2.csproj|d:\\sezon 6\\github\\awww\\awww_lab2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F0DA953-3AA6-4126-ACF8-BD8D00E05648}|AWWW_Lab2.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0DA953-3AA6-4126-ACF8-BD8D00E05648}|AWWW_Lab2.csproj|d:\\sezon 6\\github\\awww\\awww_lab2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F0DA953-3AA6-4126-ACF8-BD8D00E05648}|AWWW_Lab2.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0DA953-3AA6-4126-ACF8-BD8D00E05648}|AWWW_Lab2.csproj|d:\\sezon 6\\github\\awww\\awww_lab2\\views\\eventtype\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F0DA953-3AA6-4126-ACF8-BD8D00E05648}|AWWW_Lab2.csproj|solutionrelative:views\\eventtype\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0DA953-3AA6-4126-ACF8-BD8D00E05648}|AWWW_Lab2.csproj|d:\\sezon 6\\github\\awww\\awww_lab2\\models\\eventtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F0DA953-3AA6-4126-ACF8-BD8D00E05648}|AWWW_Lab2.csproj|solutionrelative:models\\eventtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0DA953-3AA6-4126-ACF8-BD8D00E05648}|AWWW_Lab2.csproj|d:\\sezon 6\\github\\awww\\awww_lab2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F0DA953-3AA6-4126-ACF8-BD8D00E05648}|AWWW_Lab2.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0DA953-3AA6-4126-ACF8-BD8D00E05648}|AWWW_Lab2.csproj|d:\\sezon 6\\github\\awww\\awww_lab2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F0DA953-3AA6-4126-ACF8-BD8D00E05648}|AWWW_Lab2.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0DA953-3AA6-4126-ACF8-BD8D00E05648}|AWWW_Lab2.csproj|d:\\sezon 6\\github\\awww\\awww_lab2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F0DA953-3AA6-4126-ACF8-BD8D00E05648}|AWWW_Lab2.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0DA953-3AA6-4126-ACF8-BD8D00E05648}|AWWW_Lab2.csproj|d:\\sezon 6\\github\\awww\\awww_lab2\\migrations\\20240331215101_pierwsza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F0DA953-3AA6-4126-ACF8-BD8D00E05648}|AWWW_Lab2.csproj|solutionrelative:migrations\\20240331215101_pierwsza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7F0DA953-3AA6-4126-ACF8-BD8D00E05648}|AWWW_Lab2.csproj|d:\\sezon 6\\github\\awww\\awww_lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7F0DA953-3AA6-4126-ACF8-BD8D00E05648}|AWWW_Lab2.csproj|d:\\sezon 6\\github\\awww\\awww_lab2\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F0DA953-3AA6-4126-ACF8-BD8D00E05648}|AWWW_Lab2.csproj|solutionrelative:mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F0DA953-3AA6-4126-ACF8-BD8D00E05648}|AWWW_Lab2.csproj|d:\\sezon 6\\github\\awww\\awww_lab2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7F0DA953-3AA6-4126-ACF8-BD8D00E05648}|AWWW_Lab2.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7F0DA953-3AA6-4126-ACF8-BD8D00E05648}|AWWW_Lab2.csproj|d:\\sezon 6\\github\\awww\\awww_lab2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -55,10 +87,6 @@
       "RelativeMoniker": "D:0:0:{7F0DA953-3AA6-4126-ACF8-BD8D00E05648}|AWWW_Lab2.csproj|solutionrelative:models\\league.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F0DA953-3AA6-4126-ACF8-BD8D00E05648}|AWWW_Lab2.csproj|d:\\sezon 6\\github\\awww\\awww_lab2\\models\\eventtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F0DA953-3AA6-4126-ACF8-BD8D00E05648}|AWWW_Lab2.csproj|solutionrelative:models\\eventtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7F0DA953-3AA6-4126-ACF8-BD8D00E05648}|AWWW_Lab2.csproj|d:\\sezon 6\\github\\awww\\awww_lab2\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F0DA953-3AA6-4126-ACF8-BD8D00E05648}|AWWW_Lab2.csproj|solutionrelative:models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -73,10 +101,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7F0DA953-3AA6-4126-ACF8-BD8D00E05648}|AWWW_Lab2.csproj|d:\\sezon 6\\github\\awww\\awww_lab2\\models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F0DA953-3AA6-4126-ACF8-BD8D00E05648}|AWWW_Lab2.csproj|solutionrelative:models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F0DA953-3AA6-4126-ACF8-BD8D00E05648}|AWWW_Lab2.csproj|d:\\sezon 6\\github\\awww\\awww_lab2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F0DA953-3AA6-4126-ACF8-BD8D00E05648}|AWWW_Lab2.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -91,175 +115,97 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "20240331215101_Pierwsza.cs",
-              "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Migrations\\20240331215101_Pierwsza.cs",
-              "RelativeDocumentMoniker": "Migrations\\20240331215101_Pierwsza.cs",
-              "ToolTip": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Migrations\\20240331215101_Pierwsza.cs",
-              "RelativeToolTip": "Migrations\\20240331215101_Pierwsza.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "EventTypeController.cs",
+              "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Controllers\\EventTypeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EventTypeController.cs",
+              "ToolTip": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Controllers\\EventTypeController.cs",
+              "RelativeToolTip": "Controllers\\EventTypeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T21:51:01.986Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Position.cs",
-              "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Models\\Position.cs",
-              "RelativeDocumentMoniker": "Models\\Position.cs",
-              "ToolTip": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Models\\Position.cs",
-              "RelativeToolTip": "Models\\Position.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABBAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T20:52:18.182Z",
+              "WhenOpened": "2024-04-01T00:00:50.407Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "MyDbContext.cs",
-              "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\MyDbContext.cs",
-              "RelativeDocumentMoniker": "MyDbContext.cs",
-              "ToolTip": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\MyDbContext.cs",
-              "RelativeToolTip": "MyDbContext.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAA9wBQAAABKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T21:16:08.539Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
               "ToolTip": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAACAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-03-31T21:46:02.498Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MatchPlayer.cs",
-              "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Models\\MatchPlayer.cs",
-              "RelativeDocumentMoniker": "Models\\MatchPlayer.cs",
-              "ToolTip": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Models\\MatchPlayer.cs",
-              "RelativeToolTip": "Models\\MatchPlayer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAYAAAA",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Views\\EventType\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\EventType\\Index.cshtml",
+              "ToolTip": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Views\\EventType\\Index.cshtml",
+              "RelativeToolTip": "Views\\EventType\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T00:01:31.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T20:52:12.238Z",
+              "WhenOpened": "2024-03-31T20:49:37.66Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-31T21:43:24.087Z",
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Views\\EventType\\Add.cshtml",
+              "RelativeDocumentMoniker": "Views\\EventType\\Add.cshtml",
+              "ToolTip": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Views\\EventType\\Add.cshtml",
+              "RelativeToolTip": "Views\\EventType\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T00:08:25.06Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T20:47:09.532Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Player.cs",
-              "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Models\\Player.cs",
-              "RelativeDocumentMoniker": "Models\\Player.cs",
-              "ToolTip": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Models\\Player.cs",
-              "RelativeToolTip": "Models\\Player.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T20:51:54.191Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "MatchEvent.cs",
-              "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Models\\MatchEvent.cs",
-              "RelativeDocumentMoniker": "Models\\MatchEvent.cs",
-              "ToolTip": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Models\\MatchEvent.cs",
-              "RelativeToolTip": "Models\\MatchEvent.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T20:52:03.808Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Match.cs",
-              "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Models\\Match.cs",
-              "RelativeDocumentMoniker": "Models\\Match.cs",
-              "ToolTip": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Models\\Match.cs",
-              "RelativeToolTip": "Models\\Match.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T20:51:39.873Z",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-31T22:49:50.572Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Tag.cs",
-              "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Models\\Tag.cs",
-              "RelativeDocumentMoniker": "Models\\Tag.cs",
-              "ToolTip": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Models\\Tag.cs",
-              "RelativeToolTip": "Models\\Tag.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABDAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T20:51:30.174Z",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-31T22:50:21.121Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Team.cs",
-              "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Models\\Team.cs",
-              "RelativeDocumentMoniker": "Models\\Team.cs",
-              "ToolTip": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Models\\Team.cs",
-              "RelativeToolTip": "Models\\Team.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T20:51:47.145Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "League.cs",
-              "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Models\\League.cs",
-              "RelativeDocumentMoniker": "Models\\League.cs",
-              "ToolTip": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Models\\League.cs",
-              "RelativeToolTip": "Models\\League.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T20:51:35.219Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
               "Title": "EventType.cs",
               "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Models\\EventType.cs",
               "RelativeDocumentMoniker": "Models\\EventType.cs",
@@ -272,7 +218,165 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-31T22:50:06.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240331215101_Pierwsza.cs",
+              "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Migrations\\20240331215101_Pierwsza.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240331215101_Pierwsza.cs",
+              "ToolTip": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Migrations\\20240331215101_Pierwsza.cs",
+              "RelativeToolTip": "Migrations\\20240331215101_Pierwsza.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T21:51:01.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Position.cs",
+              "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Models\\Position.cs",
+              "RelativeDocumentMoniker": "Models\\Position.cs",
+              "ToolTip": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Models\\Position.cs",
+              "RelativeToolTip": "Models\\Position.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T20:52:18.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "MyDbContext.cs",
+              "ToolTip": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\MyDbContext.cs",
+              "RelativeToolTip": "MyDbContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA9wBQAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T21:16:08.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MatchPlayer.cs",
+              "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Models\\MatchPlayer.cs",
+              "RelativeDocumentMoniker": "Models\\MatchPlayer.cs",
+              "ToolTip": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Models\\MatchPlayer.cs",
+              "RelativeToolTip": "Models\\MatchPlayer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T20:52:12.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-31T21:43:24.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T20:47:09.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Models\\Player.cs",
+              "RelativeDocumentMoniker": "Models\\Player.cs",
+              "ToolTip": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Models\\Player.cs",
+              "RelativeToolTip": "Models\\Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T20:51:54.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MatchEvent.cs",
+              "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Models\\MatchEvent.cs",
+              "RelativeDocumentMoniker": "Models\\MatchEvent.cs",
+              "ToolTip": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Models\\MatchEvent.cs",
+              "RelativeToolTip": "Models\\MatchEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T20:52:03.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Match.cs",
+              "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Models\\Match.cs",
+              "RelativeDocumentMoniker": "Models\\Match.cs",
+              "ToolTip": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Models\\Match.cs",
+              "RelativeToolTip": "Models\\Match.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T20:51:39.873Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 14,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Models\\Tag.cs",
+              "RelativeDocumentMoniker": "Models\\Tag.cs",
+              "ToolTip": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Models\\Tag.cs",
+              "RelativeToolTip": "Models\\Tag.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T20:51:30.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Team.cs",
+              "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Models\\Team.cs",
+              "RelativeDocumentMoniker": "Models\\Team.cs",
+              "ToolTip": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Models\\Team.cs",
+              "RelativeToolTip": "Models\\Team.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T20:51:47.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "League.cs",
+              "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Models\\League.cs",
+              "RelativeDocumentMoniker": "Models\\League.cs",
+              "ToolTip": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Models\\League.cs",
+              "RelativeToolTip": "Models\\League.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T20:51:35.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "Comment.cs",
               "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Models\\Comment.cs",
               "RelativeDocumentMoniker": "Models\\Comment.cs",
@@ -280,12 +384,11 @@
               "RelativeToolTip": "Models\\Comment.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T20:50:58.975Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-31T20:50:58.975Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 22,
               "Title": "Category.cs",
               "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Models\\Category.cs",
@@ -293,12 +396,11 @@
               "RelativeToolTip": "Models\\Category.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T20:51:20.827Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-31T20:51:20.827Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 23,
               "Title": "Author.cs",
               "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Models\\Author.cs",
               "RelativeDocumentMoniker": "Models\\Author.cs",
@@ -306,12 +408,11 @@
               "RelativeToolTip": "Models\\Author.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T20:50:46.824Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-31T20:50:46.824Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 24,
               "Title": "Article.cs",
               "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Models\\Article.cs",
               "RelativeDocumentMoniker": "Models\\Article.cs",
@@ -319,21 +420,7 @@
               "RelativeToolTip": "Models\\Article.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T20:51:07.99Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T20:49:37.66Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-31T20:51:07.99Z"
             }
           ]
         }
