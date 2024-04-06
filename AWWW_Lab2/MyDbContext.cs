@@ -22,8 +22,13 @@ namespace AWWW_Lab2
         {
 
         }
+		protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+		{
+			base.OnConfiguring(optionsBuilder);
+			optionsBuilder.UseLazyLoadingProxies();
+		}
 
-        protected override void OnModelCreating(ModelBuilder modelBuilder)
+		protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<Match>()
                 .HasOne(m => m.HomeTeam)

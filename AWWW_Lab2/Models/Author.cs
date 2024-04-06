@@ -1,4 +1,5 @@
-﻿namespace AWWW_Lab2.Models
+﻿using Microsoft.VisualBasic;
+namespace AWWW_Lab2.Models
 {
     public class Author
     {

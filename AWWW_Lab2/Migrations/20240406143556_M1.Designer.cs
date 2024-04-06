@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace AWWW_Lab2.Migrations
 {
     [DbContext(typeof(MyDbContext))]
-    [Migration("20240331215101_Pierwsza")]
-    partial class Pierwsza
+    [Migration("20240406143556_M1")]
+    partial class M1
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -21,6 +21,9 @@ namespace AWWW_Lab2.Migrations
 #pragma warning disable 612, 618
             modelBuilder
                 .HasAnnotation("ProductVersion", "8.0.3")
+                .HasAnnotation("Proxies:ChangeTracking", false)
+                .HasAnnotation("Proxies:CheckEquality", false)
+                .HasAnnotation("Proxies:LazyLoading", true)
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
@@ -151,11 +154,11 @@ namespace AWWW_Lab2.Migrations
 
             modelBuilder.Entity("AWWW_Lab2.Models.League", b =>
                 {
-                    b.Property<int>("Id")
+                    b.Property<int>("LeagueId")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("LeagueId"));
 
                     b.Property<string>("Country")
                         .IsRequired()
@@ -168,7 +171,7 @@ namespace AWWW_Lab2.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.HasKey("Id");
+                    b.HasKey("LeagueId");
 
                     b.ToTable("Leagues");
                 });
