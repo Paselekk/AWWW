@@ -1,0 +1,13 @@
+﻿@model List<AWWW_Lab2.Models.Category>
+
+	<h1>Lista kategorii:</h1>
+	<p>
+		<a class="btn btn-outline-info" asp-controller="Category" asp-action="Add">Dodaj nowa kategorie</a>
+		
+		<ul class="list-group">
+			@foreach (var item in Model)
+			{
+				<li class="list-group-item">Kategoria: @item.Name</li>
+			}
+		</ul>
+	</p>

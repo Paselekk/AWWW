@@ -1,0 +1,28 @@
+﻿@model List<AWWW_Lab2.Models.League>
+
+	<h1>Lista lig:</h1>
+	<p>
+		<a class="btn btn-outline-info" asp-controller="League" asp-action="Add">Dodaj lige</a>
+		<ul class="list-group my-3">
+			@foreach (var item in Model)
+			{
+				<li class="list-group-item">
+				<p>Nazwa ligi: @item.Name</p>
+				<p>Kraj: @item.Country</p>
+				<p>Poziom: @item.Level</p>
+				<p>Drużyny:</p>
+				@if (item.Teams != null)
+				{
+					@foreach (var team in item.Teams)
+					{
+						var tempTeam = $"| {@team.Name} ";
+						@tempTeam;
+					}
+					var temp = "|";
+					@temp;
+				}
+				<a class="btn btn-outline-danger" asp-controller="League" asp-action="Delete" asp-route-id=@item!.Id>Usuń</a>
+				</li>			
+			}
+		</ul>
+	</p>

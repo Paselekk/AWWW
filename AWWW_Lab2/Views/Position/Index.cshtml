@@ -1,0 +1,12 @@
+﻿@model List<AWWW_Lab2.Models.Position>
+<h1>Lista pozycji:</h1>
+<a class="btn btn-outline-info" asp-controller="Position" asp-action="Add">Dodaj pozycje</a>
+<ul class="list-group list-group-flush">
+	@foreach (var item in Model)
+	{
+		<li class="list-group-item">
+			<p>Nazwa pozycji: @item.Name</p>
+			<a class="btn btn-outline-danger" asp-controller="Position" asp-action="Delete" asp-route-id="@item.Id">Usuń</a>
+		</li>
+	}
+</ul>

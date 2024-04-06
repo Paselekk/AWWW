@@ -1,0 +1,11 @@
+﻿@model List<AWWW_Lab2.Models.Tag>
+<h1>Lista tagów:</h1>
+<p>
+	<a class="btn btn-outline-info" asp-controller="Tag" asp-action="Add">Dodaj tag</a>
+	<ul class="list-group">
+		@foreach (var item in Model)
+		{
+			<li class="list-group-item">Nazwa tagu: @item.Name</li>
+		}
+	</ul>
+</p>

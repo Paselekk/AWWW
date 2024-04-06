@@ -1,0 +1,12 @@
+﻿@model List<AWWW_Lab2.Models.Author>
+
+<h1>Lista autorów:</h1>
+<p>
+	<a class="btn btn-outline-info" asp-controller="Author" asp-action="Add">Dodaj autora</a>
+	<ul class="list-group">
+	@foreach (var item in Model)
+	{
+		<li class="list-group-item">Imie i nazwisko: @item.FirstName @item.LastName</li>
+	}
+	</ul>
+</p>
