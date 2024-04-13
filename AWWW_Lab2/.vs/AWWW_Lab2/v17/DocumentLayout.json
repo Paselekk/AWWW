@@ -11,10 +11,6 @@
       "RelativeMoniker": "D:0:0:{7F0DA953-3AA6-4126-ACF8-BD8D00E05648}|AWWW_Lab2.csproj|solutionrelative:controllers\\leaguecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Migrations\\20240406143556_M1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240406143556_M1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7F0DA953-3AA6-4126-ACF8-BD8D00E05648}|AWWW_Lab2.csproj|d:\\sezon 6\\github\\awww\\awww_lab2\\views\\league\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7F0DA953-3AA6-4126-ACF8-BD8D00E05648}|AWWW_Lab2.csproj|solutionrelative:views\\league\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -177,6 +173,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{7F0DA953-3AA6-4126-ACF8-BD8D00E05648}|AWWW_Lab2.csproj|d:\\sezon 6\\github\\awww\\awww_lab2\\models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F0DA953-3AA6-4126-ACF8-BD8D00E05648}|AWWW_Lab2.csproj|solutionrelative:models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0DA953-3AA6-4126-ACF8-BD8D00E05648}|AWWW_Lab2.csproj|d:\\sezon 6\\github\\awww\\awww_lab2\\migrations\\20240406143556_m1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F0DA953-3AA6-4126-ACF8-BD8D00E05648}|AWWW_Lab2.csproj|solutionrelative:migrations\\20240406143556_m1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -198,12 +198,11 @@
               "RelativeToolTip": "Controllers\\LeagueController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T11:35:05.937Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-01T11:35:05.937Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Team.cs",
               "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Models\\Team.cs",
               "RelativeDocumentMoniker": "Models\\Team.cs",
@@ -211,12 +210,11 @@
               "RelativeToolTip": "Models\\Team.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T20:51:47.145Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-31T20:51:47.145Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Position.cs",
               "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Models\\Position.cs",
               "RelativeDocumentMoniker": "Models\\Position.cs",
@@ -224,12 +222,11 @@
               "RelativeToolTip": "Models\\Position.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T20:52:18.182Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-31T20:52:18.182Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "MatchEvent.cs",
               "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Models\\MatchEvent.cs",
               "RelativeDocumentMoniker": "Models\\MatchEvent.cs",
@@ -237,8 +234,7 @@
               "RelativeToolTip": "Models\\MatchEvent.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T20:52:03.808Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-31T20:52:03.808Z"
             },
             {
               "$type": "Document",
@@ -255,7 +251,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 43,
               "Title": "20240406143556_M1.cs",
               "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Migrations\\20240406143556_M1.cs",
               "RelativeDocumentMoniker": "Migrations\\20240406143556_M1.cs",
@@ -263,12 +259,11 @@
               "RelativeToolTip": "Migrations\\20240406143556_M1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T14:35:56.265Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-06T14:35:56.265Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "League.cs",
               "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Models\\League.cs",
               "RelativeDocumentMoniker": "Models\\League.cs",
@@ -276,12 +271,11 @@
               "RelativeToolTip": "Models\\League.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T20:51:35.219Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-31T20:51:35.219Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Views\\League\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\League\\Index.cshtml",
@@ -289,12 +283,11 @@
               "RelativeToolTip": "Views\\League\\Index.cshtml",
               "ViewState": "AQIAAAIAAAAAAAAAAAAjwBcAAABsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-01T11:36:13.795Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-01T11:36:13.795Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "TeamController.cs",
               "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Controllers\\TeamController.cs",
               "RelativeDocumentMoniker": "Controllers\\TeamController.cs",
@@ -302,12 +295,11 @@
               "RelativeToolTip": "Controllers\\TeamController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T14:05:34.745Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-06T14:05:34.745Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "Add.cshtml",
               "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Views\\Team\\Add.cshtml",
               "RelativeDocumentMoniker": "Views\\Team\\Add.cshtml",
@@ -315,12 +307,11 @@
               "RelativeToolTip": "Views\\Team\\Add.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-06T14:17:24.964Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-06T14:17:24.964Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Views\\Team\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Team\\Index.cshtml",
@@ -328,12 +319,11 @@
               "RelativeToolTip": "Views\\Team\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-06T14:05:51.678Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-06T14:05:51.678Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "Add.cshtml",
               "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Views\\Position\\Add.cshtml",
               "RelativeDocumentMoniker": "Views\\Position\\Add.cshtml",
@@ -341,12 +331,11 @@
               "RelativeToolTip": "Views\\Position\\Add.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-04T22:18:57.495Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-04T22:18:57.495Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Views\\Tag\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Tag\\Index.cshtml",
@@ -354,12 +343,11 @@
               "RelativeToolTip": "Views\\Tag\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-01T11:11:04.765Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-01T11:11:04.765Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -367,12 +355,11 @@
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-31T22:50:21.121Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-31T22:50:21.121Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "MatchPlayer.cs",
               "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Models\\MatchPlayer.cs",
               "RelativeDocumentMoniker": "Models\\MatchPlayer.cs",
@@ -380,12 +367,11 @@
               "RelativeToolTip": "Models\\MatchPlayer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T20:52:12.238Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-31T20:52:12.238Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 14,
               "Title": "MyDbContext.cs",
               "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\MyDbContext.cs",
               "RelativeDocumentMoniker": "MyDbContext.cs",
@@ -393,12 +379,11 @@
               "RelativeToolTip": "MyDbContext.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAQwBwAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T21:16:08.539Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-31T21:16:08.539Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -406,12 +391,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T20:47:09.532Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-31T20:47:09.532Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 16,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -419,12 +403,11 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-31T21:43:24.087Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-31T21:43:24.087Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 17,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
@@ -432,12 +415,11 @@
               "RelativeToolTip": "Views\\_ViewStart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-31T22:50:06.398Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-31T22:50:06.398Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 18,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
@@ -445,12 +427,11 @@
               "RelativeToolTip": "Views\\_ViewImports.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-31T22:49:50.572Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-31T22:49:50.572Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 19,
               "Title": "TagController.cs",
               "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Controllers\\TagController.cs",
               "RelativeDocumentMoniker": "Controllers\\TagController.cs",
@@ -458,12 +439,11 @@
               "RelativeToolTip": "Controllers\\TagController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T11:09:38.098Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-01T11:09:38.098Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 22,
               "Title": "20240406140405_M1.cs",
               "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Migrations\\20240406140405_M1.cs",
               "RelativeDocumentMoniker": "Migrations\\20240406140405_M1.cs",
@@ -471,12 +451,11 @@
               "RelativeToolTip": "Migrations\\20240406140405_M1.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T14:04:06.161Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-06T14:04:06.161Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 24,
               "Title": "AuthorController.cs",
               "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Controllers\\AuthorController.cs",
               "RelativeDocumentMoniker": "Controllers\\AuthorController.cs",
@@ -484,12 +463,11 @@
               "RelativeToolTip": "Controllers\\AuthorController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T10:31:14.563Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-01T10:31:14.563Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 23,
               "Title": "Author.cs",
               "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Models\\Author.cs",
               "RelativeDocumentMoniker": "Models\\Author.cs",
@@ -497,12 +475,11 @@
               "RelativeToolTip": "Models\\Author.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T20:50:46.824Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-31T20:50:46.824Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 21,
               "Title": "Comment.cs",
               "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Models\\Comment.cs",
               "RelativeDocumentMoniker": "Models\\Comment.cs",
@@ -510,12 +487,11 @@
               "RelativeToolTip": "Models\\Comment.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T20:50:58.975Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-31T20:50:58.975Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 20,
               "Title": "Add.cshtml",
               "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Views\\Category\\Add.cshtml",
               "RelativeDocumentMoniker": "Views\\Category\\Add.cshtml",
@@ -523,12 +499,11 @@
               "RelativeToolTip": "Views\\Category\\Add.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-01T10:58:08.707Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-01T10:58:08.707Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 25,
               "Title": "PositionController.cs",
               "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Controllers\\PositionController.cs",
               "RelativeDocumentMoniker": "Controllers\\PositionController.cs",
@@ -536,12 +511,11 @@
               "RelativeToolTip": "Controllers\\PositionController.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAxwA4AAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T21:35:17.106Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-04T21:35:17.106Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 26,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Views\\Position\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Position\\Index.cshtml",
@@ -549,12 +523,11 @@
               "RelativeToolTip": "Views\\Position\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-04T21:38:02.634Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-04T21:38:02.634Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 27,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -566,7 +539,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 28,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Views\\Category\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Category\\Index.cshtml",
@@ -578,7 +551,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 29,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Views\\Author\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Author\\Index.cshtml",
@@ -590,7 +563,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 30,
               "Title": "EventTypeController.cs",
               "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Controllers\\EventTypeController.cs",
               "RelativeDocumentMoniker": "Controllers\\EventTypeController.cs",
@@ -602,7 +575,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 31,
               "Title": "EventType.cs",
               "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Models\\EventType.cs",
               "RelativeDocumentMoniker": "Models\\EventType.cs",
@@ -614,7 +587,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 32,
               "Title": "Add.cshtml",
               "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Views\\Tag\\Add.cshtml",
               "RelativeDocumentMoniker": "Views\\Tag\\Add.cshtml",
@@ -626,7 +599,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 33,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
@@ -638,7 +611,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 34,
               "Title": "Add.cshtml",
               "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Views\\Author\\Add.cshtml",
               "RelativeDocumentMoniker": "Views\\Author\\Add.cshtml",
@@ -650,7 +623,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 35,
               "Title": "Add.cshtml",
               "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Views\\EventType\\Add.cshtml",
               "RelativeDocumentMoniker": "Views\\EventType\\Add.cshtml",
@@ -662,7 +635,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 36,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Views\\EventType\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\EventType\\Index.cshtml",
@@ -674,7 +647,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 38,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -686,7 +659,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 37,
               "Title": "Category.cs",
               "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Models\\Category.cs",
@@ -698,7 +671,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 40,
               "Title": "Player.cs",
               "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Models\\Player.cs",
               "RelativeDocumentMoniker": "Models\\Player.cs",
@@ -710,7 +683,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 41,
               "Title": "Match.cs",
               "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Models\\Match.cs",
               "RelativeDocumentMoniker": "Models\\Match.cs",
@@ -722,7 +695,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 39,
               "Title": "Tag.cs",
               "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Models\\Tag.cs",
               "RelativeDocumentMoniker": "Models\\Tag.cs",
@@ -734,7 +707,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 42,
               "Title": "Article.cs",
               "DocumentMoniker": "D:\\SEZON 6\\GitHub\\AWWW\\AWWW_Lab2\\Models\\Article.cs",
               "RelativeDocumentMoniker": "Models\\Article.cs",
